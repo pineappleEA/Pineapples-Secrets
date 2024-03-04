@@ -79,4 +79,5 @@ This likely would have made it very easy to just circumvent the check.
 The official installer could probably have been "cracked" very easily.  
 Since the liftinstaller communicates with the official servers, we decided against that, so we could keep this process secret.  
 This meant we could keep using this method for as long as possible, and keep reuploading the builds for everyone to download.  
-Hell, one of us simply automated the whole process using a Bash script.  
+We originally did this manually, but one of us simply automated the whole process using a Python script, so we had more up-to-date builds.    
+Also, by the way, the only reason we made Pineapple was due to Yuzu illegally DMCAing some pastebins of some of our friends.  
